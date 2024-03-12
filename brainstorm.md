@@ -1,19 +1,22 @@
 # Game Brainstorming
 
+_Author: @jonschenk_
+
+**_Summary:_**
+
+> Design a game inspired by popular 2D games that already exist. This will be my (Jon's) first attempt at fully fleshing out a game. I have played around with Unity in the past, but this will most likely be done in Godot. Some core values in a game I make will be satisfying movement, a speedrunnable level design, and an aesthetically pleasing world. The biggest challenge I anticipate I will face is the art. I am determined to learn myself how to make the sprites and tilesets, but I will not be ashamed to use assets if necessary in some places.
+
 ### General
 
 - platformer
 - pixel art
 - 2d
 - SATISFYING movement
-- enemies
 
-### Inspiration / vibe
+### Inspiration
 
 - Celeste
 - Mario (Galaxy / Odyssey life system)
-- pixel art
-- in space?
 
 ### Movement
 
@@ -37,6 +40,9 @@
 ### Art software options
 
 - Aseprite
+  - Will need to learn pixel art skills.
+- FL Studio (for music and sfx)
+  - Already proficient
 
 ### Art ideas
 
@@ -60,10 +66,15 @@
 ### Inspiration images
 
 ![celeste](assets\celeste2.png)
+celeste
 ![smg](assets\smg.jpg)
+super mario galaxy
 ![celeste1](assets\celeste3.png)
+celeste (again)
 ![smg2](assets\smg2.jpg)
+super mario galaxy (again)
 ![kzero](assets\katanazero.png)
+katana zero
 
 # General game design plans
 
@@ -74,15 +85,31 @@ I would like to design a basic 2d mario-like game to learn what I am doing and f
 - Learn Godot/Unity (Probably Godot)
 - Create basic main character and movements
 - Create basic goomba-like enemy
-- Create basic level
 - Create end goal collectible
+- Create basic level
+- Home screen
+  - Play button
+  - Show controls
 - Art & animations:
   - Main character
   - Enemy
   - Collectibles
 
-### Post first iteration goals
+### Post-first-iteration goals
 
+- Settings
+  - Speedrun timer toggle
+  - Keybinds
 - More than one level
+  - Level selection screen
 - Enemy variations
 - Strawberry-like collectible
+- Hone in designs, better animations
+
+### Stretch goals
+
+- Character customization collectibles
+  - Hats
+- In-game achievements (Future steam achievements)
+  - Achievement log in game
+- Controller support
