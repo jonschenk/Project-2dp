@@ -66,15 +66,10 @@ _Author: @jonschenk_
 ### Inspiration images
 
 ![celeste](assets/celeste2.png)
-celeste
 ![smg](assets/smg.jpg)
-super mario galaxy
 ![celeste1](assets/celeste3.png)
-celeste (again)
 ![smg2](assets/smg2.jpg)
-super mario galaxy (again)
 ![kzero](assets/katanazero.png)
-katana zero
 
 # General game design plans
 
