@@ -24,7 +24,11 @@ _Author: @jonschenk_
   - Jumping + pressing and releasing crouch = dash in direction of mouse/joystick
 - Crouching
   - While running, if you crouch, you will slide
+- Sliding
+  - If you jump while sliding, you will get a small speed boost
 - Jumping
+- Wall jumping
+  - grants a speed boost similar to slide jumping
 
 ### Combat
 
