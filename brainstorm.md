@@ -112,3 +112,4 @@ I would like to design a basic 2d mario-like game to learn what I am doing and f
 - In-game achievements (Future steam achievements)
   - Achievement log in game
 - Controller support
+- Implement some sort of turn-based RPG combat into the game for major bosses as a switch-up element (Just a crazy idea)
